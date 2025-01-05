@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treatment/Talking Therapies/Therapy 1.md",
+                "file": "Episodes/Episode 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Therapy 1"
+              "title": "Episode 1"
             }
           },
           {
@@ -220,8 +220,8 @@
   },
   "active": "e9dd00e836fff8e4",
   "lastOpenFiles": [
-    "Treatment/Talking Therapies/Counselling.md",
     "Treatment/Talking Therapies/Therapy 1.md",
+    "Treatment/Talking Therapies/Counselling.md",
     "Episodes/Episode 9.md",
     "Episodes/Episode 8.md",
     "Episodes/Episode 7.md",

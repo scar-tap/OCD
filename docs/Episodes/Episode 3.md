@@ -15,4 +15,3 @@ tags:
 ---
 # Behaviours
 1. Rumination over the thought and how to say it in the kindest but least ambiguous way, e.g. noticing a person has male pattern baldness and telling that person they had the same hair style as my favourite footballer.
-2. 

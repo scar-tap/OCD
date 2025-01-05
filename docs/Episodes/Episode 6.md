@@ -7,6 +7,7 @@ tags:
   - Contamination
   - Responsibility
 ---
+# Episode 6
 # Thoughts
 1. I could father an unwanted child by accident if any amount of semen - even when logically non-existent - ended up on clothing or skin and had the potential to be transferred via cross-contamination.
 ---

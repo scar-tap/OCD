@@ -16,7 +16,6 @@ tags:
   - Carcinogens
   - ReassuranceSeeking
 ---
-# Episode 7
 # Context
 1. Joining the NHS, I was shown an induction video on how cross contamination can spread so far, “specifically a claim that something can spread around the world with just 3 people.”
 2. Working in a hospital, colleagues would use their little finger on their non-dominant hand to open doors as we went around the organisation, this is something I adopted.

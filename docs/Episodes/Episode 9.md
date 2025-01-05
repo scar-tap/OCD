@@ -13,7 +13,6 @@ tags:
   - Blood
   - ThoughtContamination
 ---
-# Episode 9
 # Context
 I had been working with trigrams in a previous role and 3 letters in “nonce” were being used. Trying not to think of the word “nonce” led to the word “paedo” or “paedophile” becoming an intrusive thought. I wouldn’t trust I hadn’t typed any of these words so would repeat the work I have done to ensure no errors and potential for offence.
 

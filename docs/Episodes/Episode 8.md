@@ -15,7 +15,6 @@ tags:
   - AIDS
   - ReassuranceSeeking
 ---
-# Episode 8
 # Context
 1. I entered a new job and learnt that the manager has a family member with HIV.
 2. There had been 2 incidents the family member had in which the manager demonstrated an amount of caution:

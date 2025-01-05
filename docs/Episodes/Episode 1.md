@@ -5,8 +5,8 @@ Category:
 tags:
   - Episode
 ---
-# Episode 1
 # Thoughts
+
 1. I may have came into contact with something that may make me fall ill.
 ---
 # Behaviours

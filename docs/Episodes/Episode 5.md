@@ -10,7 +10,6 @@ tags:
   - Health
   - ThoughtContamination
 ---
-# Episode 5
 # Context
 1. I bought a bag of peanuts and was eating them in a best friend’s car, they asked if anyone were eating peanuts, once I said I was, they told me that were allergic to peanuts. (Not it a harsh or accusatory manner, more just as for awareness).
 ---

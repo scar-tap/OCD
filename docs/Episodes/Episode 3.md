@@ -8,7 +8,6 @@ tags:
   - IntrusiveThoughts
   - Rumination
 ---
-# Episode 3
 # Thoughts
 1. If I thought something, especially a negative thought, then this should be vocalised to the entity.
 2. Not voicing a thought was not inductive behaviour of a good person as I was hiding something from a person.
